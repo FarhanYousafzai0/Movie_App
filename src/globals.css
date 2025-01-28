@@ -50,7 +50,7 @@
 
 @layer components {
   .pattern {
-    @apply  w-screen h-screen bg-center bg-cover absolute z-0;
+    @apply  ;
   }
 
   .wrapper {
